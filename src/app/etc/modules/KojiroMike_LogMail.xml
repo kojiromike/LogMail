@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <KojiroMike_LogMail>
+            <active>true</active>
+            <codePool>community</codePool>
+        </KojiroMike_LogMail>
+    </modules>
+</config>
