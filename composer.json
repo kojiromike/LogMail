@@ -1,0 +1,15 @@
+{
+    "name": "kojiromike/magento-log-mail",
+    "description": "Instead of sending real emails to dubious SMTP servers, just log them. This module delegates to Zend_Email_Transport_File to drop all emails in var/log/mail instead of trying to send real emails.",
+    "license": "OSL v3.0",
+    "authors": [
+        {
+            "name": "Michael A. Smith",
+            "email": "msmith3@ebay.com"
+        }
+    ],
+    "type": "magento-module",
+    "suggest": {
+        "magento-hackathon/magento-composer-installer":"*"
+    }
+}
