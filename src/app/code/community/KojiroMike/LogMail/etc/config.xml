@@ -52,4 +52,11 @@
             </logmail>
         </models>
     </global>
+    <default>
+        <kojiromike_logmail>
+            <email_settings>
+                <email_path>var/log/email</email_path>
+            </email_settings>
+        </kojiromike_logmail>
+    </default>
 </config>
